@@ -22,7 +22,7 @@ const Article: React.FC<IProps> = props => {
           <strong>{article.title}</strong>&nbsp;
           <button 
             type="button"
-            className="btn btn-danger"
+            className="btn btn-sm btn-danger"
             onClick={() => removeArticle(article.id)}>
               X - <span>{article.id}</span>
             </button>
