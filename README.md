@@ -1,12 +1,12 @@
 ## Install
-- In the project directory, run:
-```npm
+- In the project root directory, run:
+```shell
 npm install
 ```
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project root directory, you can run:
 
 ### `npm start`
 
